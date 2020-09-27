@@ -1,5 +1,5 @@
 def square_array(array)
-  puts square_array.each do | array |
+  puts array.each do | square_array |
   end
     
 end
